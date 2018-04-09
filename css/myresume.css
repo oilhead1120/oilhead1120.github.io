@@ -5,13 +5,13 @@ body {
 }
 
 h1 {
-	font-family: inherit;
+	font-family: "Noto Sans", "Noto Sans TC";
 	text-transform: none;
 	line-height: 6rem;
 }
 
 .subheading {
-	font-family: inherit;
+	font-family: "Noto Sans", "Noto Sans TC";
 	text-transform: none;
 	margin-top: 1rem;
 }
